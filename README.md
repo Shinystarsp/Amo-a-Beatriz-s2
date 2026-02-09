@@ -259,7 +259,7 @@
       </section>
 
       <p class="footer">
-        Dica: salve este arquivo como <strong>index.html</strong> e abra no navegador.
+       Eu Te Amo.
       </p>
     </main>
   </div>
